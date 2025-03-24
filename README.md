@@ -7,7 +7,6 @@ I'm a passionate software developer focused on building efficient, user-friendly
 - **Frontend:** HTML, CSS, Bootstrap, TailwindCSS, JavaScript, jQuery, Vue.js, Vuetify, Nuxt.js
 - **Backend:** PHP, Laravel
 - **Database:** MySQL
-- **Server & Deployment:** Nginx
 
 ### 🎯 What I Do:
 ✅ Experienced in full-stack web development  
